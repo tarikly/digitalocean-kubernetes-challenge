@@ -1,6 +1,6 @@
 
 ## Name of Project 
-* The name of your project  
+* Deploy an internal container registry  
  
 ## Link to Your Github or Gitlab Repo
 * https://github.com/tarikly/digitalocean-kubernetes-challenge
