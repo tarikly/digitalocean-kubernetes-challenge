@@ -50,5 +50,5 @@ https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers
 https://github.com/ContainerSolutions/trow
 
 
-# digitalocean-kubernetes-challenge
+digitalocean-kubernetes-challenge
 https://www.digitalocean.com/community/pages/kubernetes-challenge
