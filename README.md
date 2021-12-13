@@ -12,6 +12,7 @@ git clone https://github.com/ContainerSolutions/trow
 Set namespace and create Trow resources
 ```
 cd trow/quick-install
+kubectl create ns trow
 namespace=trow
 sed "s/{{namespace}}/${namespace}/" trow.yaml | kubectl apply -f -
 ```
